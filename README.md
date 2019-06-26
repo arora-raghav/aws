@@ -27,7 +27,7 @@ https://www.aws.training/learningobject/curriculum?id=20685
 		10 Questions: https://phoenixts.com/resources/aws-associate-assessment/
 		20 Questions : https://linuxacademy.com/blog/certifications/test-your-knowledge-with-our-aws-practice-quiz/
 
-**AWS Cheat Sheets :** https://tutorialsdojo.com/aws-cheat-sheets/
+** AWS Cheat Sheets : ** https://tutorialsdojo.com/aws-cheat-sheets/
 
 **Paid Training (I Followed) : **
 
